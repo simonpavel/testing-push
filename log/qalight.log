@@ -1,0 +1,144 @@
+2019-08-02 10:00:01   INFO [MainClass] :  Info 
+2019-08-02 10:00:01  ERROR [MainClass] : -Error-
+2019-08-02 10:07:10   INFO [MainClass] :  Info 
+2019-08-02 10:07:10  ERROR [MainClass] : -Error-
+2019-08-02 10:07:31   INFO [MainClass] :  Info 
+2019-08-02 10:07:31  ERROR [MainClass] : -Error-
+2019-08-02 10:12:09   INFO [MainClass] :  Info 
+2019-08-02 10:12:09  ERROR [MainClass] : -Error-
+2019-08-02 10:15:55   INFO [MainClass] :  Info 
+2019-08-02 10:15:55  ERROR [MainClass] : -Error-
+2019-08-02 10:16:18   INFO [MainClass] :  Info 
+2019-08-02 10:16:18  ERROR [MainClass] : -Error-
+2019-08-02 20:49:01   INFO [curency.Dollar] : For 100.0 (28.0) Dollar you get: 2520.0 UAH
+2019-08-02 20:49:01   INFO [curency.Euro] : For 150.0 (31.0) Euro you get: 3952.5 UAH
+2019-08-02 20:49:01   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 1680.0 UAH
+2019-08-02 20:49:01   INFO [curency.Euro] : For 150.0 (31.0) Euro you get: 3952.5 UAH
+2019-08-02 20:49:01  ERROR [MainClass] : -Error-
+2019-08-02 21:10:24  ERROR [curency.Dollar] : For 100.0 (28.0) Dollar you get: 2520.0 UAH
+2019-08-02 21:10:24  ERROR [curency.Euro] : For 150.0 (31.0) Euro you get: 3952.5 UAH
+2019-08-02 21:10:24  ERROR [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 1680.0 UAH
+2019-08-02 21:10:24  ERROR [curency.Euro] : For 150.0 (31.0) Euro you get: 3952.5 UAH
+2019-08-02 21:10:41   INFO [curency.Dollar] : For 100.0 (28.0) Dollar you get: 2520.0 UAH
+2019-08-02 21:10:41   INFO [curency.Euro] : For 150.0 (31.0) Euro you get: 3952.5 UAH
+2019-08-02 21:10:41   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 1680.0 UAH
+2019-08-02 21:10:41   INFO [curency.Euro] : For 150.0 (31.0) Euro you get: 3952.5 UAH
+2019-08-02 22:06:18   INFO [MainClass] : 00
+2019-08-02 22:06:18   INFO [MainClass] : 01
+2019-08-02 22:06:18   INFO [MainClass] : 02
+2019-08-02 22:06:18   INFO [MainClass] : 03
+2019-08-02 22:06:18   INFO [MainClass] : 04
+2019-08-02 22:07:10   INFO [MainClass] : 00
+2019-08-02 22:07:10   INFO [MainClass] : 00
+2019-08-02 22:07:10   INFO [MainClass] : 00
+2019-08-02 22:07:10   INFO [MainClass] : 00
+2019-08-02 22:07:10   INFO [MainClass] : 00
+2019-09-02 16:54:42   INFO [curency.Bitcoin] : Dsdsdsd
+2019-09-02 16:55:54   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-09-02 16:56:45   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 1680.0 UAH
+2019-09-02 16:56:45   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-09-02 17:11:22   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 1680.0 UAH
+2019-09-02 17:11:22   INFO [curency.Bitcoin] : The operation was canceled by Bank 100.0
+2019-09-02 17:12:09   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 1680.0 UAH
+2019-09-02 17:12:09   INFO [curency.Bitcoin] : 100.0The operation was canceled by Bank
+2019-09-02 17:12:19   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 1680.0 UAH
+2019-09-02 17:12:19   INFO [curency.Bitcoin] : 100.0 The operation was canceled by Bank
+2019-09-02 17:12:33   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 1680.0 UAH
+2019-09-02 17:12:33   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-09-02 17:25:27   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-09-02 17:25:27   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
+2019-09-02 18:02:13   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-09-02 18:02:13   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
+2019-10-02 13:11:38   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-10-02 13:11:38   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
+2019-10-02 13:12:01   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-10-02 13:12:01   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
+2019-10-02 13:12:24   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-10-02 13:12:24   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
+2019-10-02 13:19:58   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-10-02 13:19:58   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
+2019-10-02 13:19:58   INFO [MailClass] : sdsd
+2019-10-02 13:20:37   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-10-02 13:20:37   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
+2019-10-02 13:20:37   INFO [MailClass] : sdsd
+2019-10-02 13:21:09   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-10-02 13:21:09   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
+2019-10-02 13:21:09   INFO [MailClass] : sdsd
+2019-10-02 13:21:09  ERROR [MailClass] : sese
+2019-10-02 13:41:11   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-10-02 13:41:11   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
+2019-10-02 13:41:11   INFO [MailClass] : sdsd
+2019-10-02 13:41:11  ERROR [MailClass] : sese
+2019-10-02 13:42:55   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-10-02 13:42:55   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
+2019-10-02 13:42:55   INFO [MailClass] : sdsd
+2019-10-02 13:42:55  ERROR [MailClass] : sese
+2019-10-02 13:44:39   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-10-02 13:44:39   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
+2019-10-02 13:44:39   INFO [MailClass] : sdsd
+2019-10-02 13:44:39  ERROR [MailClass] : sese
+2019-10-02 13:54:10   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-10-02 13:54:10   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
+2019-10-02 13:54:10   INFO [MailClass] : sdsd
+2019-10-02 13:54:10  ERROR [MailClass] : sese
+2019-10-02 13:54:10   INFO [Cacl] : Result = 4
+2019-10-02 13:56:15   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-10-02 13:56:15   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
+2019-10-02 13:56:15   INFO [MailClass] : sdsd
+2019-10-02 13:56:15  ERROR [MailClass] : sese
+2019-10-02 13:56:15   INFO [Cacl] : Result = 4
+2019-10-02 13:56:15  ERROR [Cacl] : Errorjava.lang.NumberFormatException: For input string: "3d3"
+2019-10-02 13:56:35   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-10-02 13:56:35   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
+2019-10-02 13:56:35   INFO [MailClass] : sdsd
+2019-10-02 13:56:35  ERROR [MailClass] : sese
+2019-10-02 13:56:35   INFO [Cacl] : Result = 4
+2019-10-02 13:56:35  ERROR [Cacl] : Errorjava.lang.NumberFormatException: For input string: "3s3"
+2019-10-02 13:56:35   INFO [Cacl] : Result 36
+2019-10-02 14:04:56   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-10-02 14:04:56   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
+2019-10-02 14:05:14   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-10-02 14:05:14   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
+2019-10-02 14:05:14   INFO [WorkWithList] : 8 
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] :  
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] : 8 
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] :  
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] : 8 
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] :  
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] : 8 
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] :  
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] : 5 
+2019-10-02 14:05:14   INFO [WorkWithList] : 8 
+2019-10-02 14:05:14   INFO [WorkWithList] :  
+2019-10-02 14:05:48   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-10-02 14:05:48   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
+2019-10-02 14:05:48   INFO [WorkWithList] :  
+2019-10-02 14:05:48   INFO [WorkWithList] :  
+2019-10-02 14:05:48   INFO [WorkWithList] :  
+2019-10-02 14:05:48   INFO [WorkWithList] :  
+2019-10-02 14:05:48   INFO [WorkWithList] :  
+2019-10-02 14:06:09   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-10-02 14:06:09   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
+2019-11-02 18:17:53   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-11-02 18:17:53   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
+2019-11-02 18:18:01   INFO [curency.Bitcoin] : The operation was canceled by Bank
+2019-11-02 18:18:01   INFO [curency.CanadaDollar] : For 100.0 (24.0) CanadaDollar you get: 2160.0 UAH
